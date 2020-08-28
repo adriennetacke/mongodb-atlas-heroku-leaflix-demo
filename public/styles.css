@@ -1,0 +1,36 @@
+h1 {
+	font-family: 'Barlow' ;
+}
+
+body {
+	font-family: 'Barlow' ;
+	width: 50%;
+	margin-left: 25%;
+	text-align: justify;
+	line-height: 1.7;
+	font-size: 18px;
+}
+
+button {
+	font-size: 18px;
+	font-weight: 600;
+	color: #000;
+	font-family: 'Barlow' ;
+}
+
+#laugh {
+	background-color: #fedc65;
+}
+
+#movie {
+	display: flex;
+	flex-direction: row;
+	margin-top: 45px;
+}
+
+#movie img {
+	margin-right: 45px;
+	width: 400px;
+	height: 600px;
+	object-fit: cover;
+}
